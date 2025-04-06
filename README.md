@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Terraform & Splunk<br>👯 I’m looking to collaborate on OpenSource Cybersecurity Projects<br>🤝 I’m looking for help with jobs in the realm of Cybersecurity<br>🌱 I’m currently learning Purple Team Techniques<br>💬 Ask me about anything IT & Tech related<br>⚡ Fun fact: When I'm not working, I’m probably learning something new — from the latest design trends to how to optimize my morning coffee routine.
+🔭 I’m currently working on Terraform & Splunk<br>👯 I’m looking to collaborate on OpenSource Cybersecurity Projects<br>🤝 I’m looking for help with jobs in the realm of Cybersecurity<br>🌱 I’m currently learning Purple Team Techniques<br>💬 Ask me about anything IT & Tech related or just a friendly chat!<br>⚡ Fun fact: When I'm not working, I’m probably learning something new — from the latest design trends to how to optimize my morning coffee routine.
 
 
 ## 🌐 Socials:
